@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<class id="af51ce7b-8ba2-4c3a-a242-13da437903ef" type="Diagram" typeId="4d66fecd-e9b8-436f-aa50-c59040ad0879">
+  <name>Default Diagram</name>
+  <display>Default Diagram</display>
+  <isAbstract>false</isAbstract>
+  <genericTypes />
+  <isMapped>false</isMapped>
+  <parentFolderId>3dc35436-5280-47e4-ab31-541553eb361a</parentFolderId>
+  <packageId>3dc35436-5280-47e4-ab31-541553eb361a</packageId>
+  <packageName>testCustomComponent.testCustomComponent</packageName>
+  <diagram>
+    <targetPackageId>3dc35436-5280-47e4-ab31-541553eb361a</targetPackageId>
+  </diagram>
+  <stereotypes>
+    <stereotype stereotypeDefinitionId="dfd05ebf-191e-4a44-a97b-0748916f6654" name="Prefix Setting">
+      <addedByDefault>true</addedByDefault>
+      <definitionPackageName>Boxfusion.Modules.Domain</definitionPackageName>
+      <definitionPackageId>adb17c92-23cd-47f7-beeb-99512b09467b</definitionPackageId>
+      <properties>
+        <property name="46e14c52-85ab-4da6-959d-2a0163a778ea" display="Table Prefix" isActive="true" />
+      </properties>
+    </stereotype>
+  </stereotypes>
+  <metadata />
+  <childElements />
+</class>
